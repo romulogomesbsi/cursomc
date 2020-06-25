@@ -1,4 +1,4 @@
-package com.romnulodiego.domain;
+package com.romnulodiego.cursomc.domain;
 
 import java.io.Serializable;
 
